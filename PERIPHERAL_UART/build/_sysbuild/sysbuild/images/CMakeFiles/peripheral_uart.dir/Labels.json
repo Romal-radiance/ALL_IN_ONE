@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/CMakeFiles/PERIPHERAL_UART"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/CMakeFiles/PERIPHERAL_UART.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/CMakeFiles/PERIPHERAL_UART-complete.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-build.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-configure.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-download.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-install.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-mkdir.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-patch.rule"
+		},
+		{
+			"file" : "D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PERIPHERAL_UART"
+		],
+		"name" : "PERIPHERAL_UART"
+	}
+}

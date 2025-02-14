@@ -1,0 +1,7 @@
+default: PERIPHERAL_UART
+build_dir: D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build
+domains:
+  - name: PERIPHERAL_UART
+    build_dir: D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/PERIPHERAL_UART
+flash_order:
+  - PERIPHERAL_UART

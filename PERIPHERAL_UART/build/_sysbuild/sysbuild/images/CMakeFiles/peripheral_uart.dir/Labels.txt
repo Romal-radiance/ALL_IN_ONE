@@ -1,0 +1,13 @@
+# Target labels
+ PERIPHERAL_UART
+# Source files and their labels
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/CMakeFiles/PERIPHERAL_UART
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/CMakeFiles/PERIPHERAL_UART.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/CMakeFiles/PERIPHERAL_UART-complete.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-build.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-configure.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-download.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-install.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-mkdir.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-patch.rule
+D:/GitHub/romal_practice/ALL_IN_ONE/ALL_IN_ONE/PERIPHERAL_UART/build/_sysbuild/sysbuild/images/PERIPHERAL_UART-prefix/src/PERIPHERAL_UART-stamp/PERIPHERAL_UART-update.rule
